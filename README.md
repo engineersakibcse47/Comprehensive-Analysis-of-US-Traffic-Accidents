@@ -1,5 +1,7 @@
 ## Comprehensive-Analysis-of-US-Traffic-Accidents
 
+Dataset[https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents]
+
 The primary goal of the project is to analyze and generate insights on the traffic accidents that took place in USA
 from Feb. 2016 to Mar. 2023. The first part of the analysis will examine countrywide accident events. In second part,the data will be filtered for a US city where most number of accidents have occurered, then the city data will be analyzed to produce valuable insights about accients in that city.
 
